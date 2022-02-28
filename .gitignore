@@ -1,0 +1,43 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+
+# Environments #
+################
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+
+# PyCharm #
+###########
+.idea/
+
+
+# Rrrrrrr #
+###########
+.Rdata
+.Rhistory
+
+
+
+# Mine #
+tmp/
+*.notgit
+ 

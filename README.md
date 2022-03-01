@@ -16,7 +16,7 @@ Run Bash scripts (/src/scripts/*.sh) for training, test and evaluation.
 
 Scripts in src/analyses can be used to reproduce figures and analyses reported in the ACL2022 paper.
 
-All the reported simulations are based on [my forked version](https://github.com/rgalhama/diora) of DIORA (Drozdov et al., 2020), which removes dependency on pre-trained embeddings.
+All the reported simulations are based on [my forked version](https://github.com/rgalhama/diora) of DIORA (Drozdov et al., 2019), which removes dependency on pre-trained embeddings.
 
 
 

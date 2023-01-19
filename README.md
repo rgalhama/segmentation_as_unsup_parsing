@@ -3,7 +3,7 @@
 Code for ACL-2022 paper:
 
 - Alhama, Raquel G. (2022). Segmentation as Unsupervised Constituency Parsing. 
-To appear in *Proceedings of 60th Annual Meeting of the Association for Computational Linguistics*.
+In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pp. 4103--4112.
 
 
 
